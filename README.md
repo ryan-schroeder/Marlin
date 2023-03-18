@@ -1,3 +1,9 @@
+**⚠️ This firmware is no longer being maintained.**  
+I have moved on to other projects and this firmware is no longer being developed. There are many other alternatives being actively developed that may offer similar features such as:  
+[Klipper](https://gist.github.com/SteveGotthardt/2ed249f197f5928eaf5c3d3877d55503)  
+[PrintsLeo3D Firmware](https://www.printsleo3d.com/firmware)  
+[mriscoc’s Professional Firmware](https://github.com/mriscoc/Special_Configurations/releases/tag/Aquila)  
+
 # Ender 3 V2 JyersUI
 
 This fork was created with the intention of giving the best possible experience to E3V2 users. However, GitHub, flashing new firmware, etc. can all be quite daunting for new users. Pretty much everything you need to know is here on github, so here's a quick rundown of where to find what you need!
