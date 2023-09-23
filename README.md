@@ -1,4 +1,7 @@
-**⚠️ This firmware is no longer being maintained.**  
+Ryan's note: I was getting the error "RuntimeError: deque mutated during iteration" and fixed it by following these instructions: https://community.platformio.org/t/trying-to-compile-marlin-2-1-2-for-ender-3-skr-mini-v2-0-board/33769/9 - I've created this fork to capture that fix.  I've also increased the max hot-end temps to 300c, which the Aquila S2 is marketed as capable of.
+
+
+Alex's note: **⚠️ This firmware is no longer being maintained.**  
 I have moved on to other projects and this firmware is no longer being developed. There are many other alternatives being actively developed that may offer similar features such as:  
 [Klipper](https://gist.github.com/SteveGotthardt/2ed249f197f5928eaf5c3d3877d55503)  
 [PrintsLeo3D Firmware](https://www.printsleo3d.com/firmware)  
